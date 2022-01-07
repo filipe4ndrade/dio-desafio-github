@@ -1,4 +1,6 @@
-## Desafio Projeto Dio para Git/Github :large_orange_diamond:
+## Maçã ou Laranja? :thinking: 
+
+#### Desafio Projeto Dio para Git/Github :large_orange_diamond:
 
 Para esse primeiro repositório, decidir adicionar o primeiro algoritmo de inteligência artificial que desenvolvi. 
 
